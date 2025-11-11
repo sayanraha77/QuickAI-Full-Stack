@@ -240,7 +240,7 @@ https://neon.tech/
 
 ## Performance
 
-- ⚡ Lighthouse Score: 95+
+- ⚡ Lighthouse Score: 75+
 - 📦 Optimized Bundle Size
 - 🚀 Fast AI Processing
 - 📱 Mobile Responsive
